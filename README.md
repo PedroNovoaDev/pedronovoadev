@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">🚀 About Me<br><br>Passionate about technology, currently focusing on Full Stack development with experience in technologies such as Node.js, React.js, Java, MongoDB and IBM Db2.<br><br>I have experience in the entire development cycle of dynamic web applications, from analyzing and defining user requirements, back-end and front-end code development, to deployment in production and maintenance.<br><br>I learn fast and I am focused when working in a team.<br><br>👩‍💻 Currently: Open to work<br><br>🧠 Learning: Unity and C# for Game Development<br><br>📫 How to reach me: pedronovoa.21@gmail.com or LinkedIn<br><br>⚡️ Fun fact: I have a helicopter pilot licence😄</p>
+<h4 align="left">🚀 About Me</h4>
+
+###
+
+<p align="left">Passionate about technology, currently focusing on Full Stack development with experience in technologies such as Node.js, React.js, Java, MongoDB and IBM Db2.<br><br>I have experience in the entire development cycle of dynamic web applications, from analyzing and defining user requirements, back-end and front-end code development, to deployment in production and maintenance.<br><br>I learn fast and I am focused when working in a team.<br><br>👩‍💻 Currently: Open to work<br><br>🧠 Learning: Unity and C# for Game Development<br><br>📫 How to reach me: pedronovoa.21@gmail.com or LinkedIn<br><br>⚡️ Fun fact: I have a helicopter pilot licence😄</p>
 
 ###
 
@@ -14,7 +18,7 @@
 
 ###
 
-<p align="left">🛠 Skills</p>
+<h4 align="left">🛠 Skills</h4>
 
 ###
 
