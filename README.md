@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Passionate about technology, currently focusing on Full Stack development with experience in technologies such as Node.js, React.js, Java, MongoDB and IBM Db2.<br><br>I have experience in the entire development cycle of dynamic web applications, from analyzing and defining user requirements, back-end and front-end code development, to deployment in production and maintenance.<br><br>I learn fast and I am focused when working in a team.<br><br>👩‍💻 Currently: Open to work<br><br>🧠 Learning: Unity and C# for Game Development<br><br>📫 How to reach me: pedronovoa.21@gmail.com or LinkedIn<br><br>⚡️ Fun fact: I have a helicopter pilot licence😄</p>
+<p align="left">Passionate about technology and games, currently focusing on Full Stack development with experience in technologies such as Node.js, React.js, MySQL, MongoDB and IBM Db2.<br><br>I have experience in the entire development cycle of dynamic web applications, from analyzing and defining user requirements, back-end and front-end code development, to deployment in production and maintenance.<br><br>I learn fast and I am focused when working in a team.<br><br>👩‍💻 Currently: Employed <br><br>🧠 Learning: GameMaker for Game Development<br><br>📫 How to reach me: pedronovoa.21@gmail.com or LinkedIn<br><br>⚡️ Fun fact: I have a helicopter pilot licence😄</p>
 
 ###
 
@@ -26,14 +26,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" width="42" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="42" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" width="42" alt="redhat logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
